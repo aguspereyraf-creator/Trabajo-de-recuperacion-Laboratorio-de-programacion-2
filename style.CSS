@@ -1,0 +1,26 @@
+body {
+    background-color: #151515;
+    color: white;
+}
+
+.navbar {
+    background-color: #252525;
+}
+
+header {
+    background-color: #252525;
+    border-radius: 10px;
+}
+
+.card {
+    background-color: #252525;
+    color: white;
+}
+
+.juego-propio {
+    border: 2px solid #ffc107;
+}
+
+footer {
+    background-color: #252525;
+}
